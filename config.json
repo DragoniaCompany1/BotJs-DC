@@ -1,0 +1,9 @@
+{
+    "mysql": {
+        "connectionLimit": 3,
+        "host": "ISI IP DATABASE KALIAN TANPA PORT",
+        "user": "ISI USER DB KALIAN",
+        "password": "ISI PW DB KALIAN",
+        "database": "ISI NAMA DATABASE KALIAN"
+    }
+}
